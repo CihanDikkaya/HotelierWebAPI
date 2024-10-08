@@ -7,17 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiConsume", "ApiConsume", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{23540BFC-5C15-4A32-AD95-91E767327CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.WebApi", "ApiConsume\Hotelier.WebApi\Hotelier.WebApi.csproj", "{410EBB38-B6C2-431D-B8BB-3FAE3B41424F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.WebApi", "ApiConsume\Hotelier.WebApi\Hotelier.WebApi.csproj", "{410EBB38-B6C2-431D-B8BB-3FAE3B41424F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.WebUI", "FrontEnd\Hotelier.WebUI\Hotelier.WebUI.csproj", "{FBF978E0-1F48-4AE1-B40D-57915054576B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.WebUI", "FrontEnd\Hotelier.WebUI\Hotelier.WebUI.csproj", "{FBF978E0-1F48-4AE1-B40D-57915054576B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.EntityLayer", "ApiConsume\Hotelier.EntityLayer\Hotelier.EntityLayer.csproj", "{76220C91-83D7-43A0-B97A-DBCF2FABCB56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.EntityLayer", "ApiConsume\Hotelier.EntityLayer\Hotelier.EntityLayer.csproj", "{76220C91-83D7-43A0-B97A-DBCF2FABCB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.DataAccessLayer", "ApiConsume\Hotelier.DataAccessLayer\Hotelier.DataAccessLayer.csproj", "{1ADDD371-216E-4444-B8FA-8312C3D805B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.DataAccessLayer", "ApiConsume\Hotelier.DataAccessLayer\Hotelier.DataAccessLayer.csproj", "{1ADDD371-216E-4444-B8FA-8312C3D805B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.BusinessLayer", "ApiConsume\Hotelier.BusinessLayer\Hotelier.BusinessLayer.csproj", "{D5A2F7EA-B1FD-4111-BFE4-1C8DBA66EE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.BusinessLayer", "ApiConsume\Hotelier.BusinessLayer\Hotelier.BusinessLayer.csproj", "{D5A2F7EA-B1FD-4111-BFE4-1C8DBA66EE57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotelier.DTOLayer", "ApiConsume\Hotelier.DTOLayer\Hotelier.DTOLayer.csproj", "{B99B4AFF-2367-4912-9678-E94C36CFF950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotelier.DTOLayer", "ApiConsume\Hotelier.DTOLayer\Hotelier.DTOLayer.csproj", "{B99B4AFF-2367-4912-9678-E94C36CFF950}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
